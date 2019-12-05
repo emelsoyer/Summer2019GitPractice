@@ -8,3 +8,7 @@ cyan
 azure
 French rose 
 fushia
+French rose
+Cyber yellow
+violet
+Flame
