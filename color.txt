@@ -6,3 +6,4 @@ white
 orange
 cyan
 azure
+French rose 
